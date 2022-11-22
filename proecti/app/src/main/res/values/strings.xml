@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="details">details</string>
+    <string name="solved">solved</string>
+    <string name="hint">hint</string>
+    <string name="title">title</string>
+</resources>
